@@ -1,2 +1,2 @@
 # hello-world
-Hello this my first commit
+Hello this is my first commit
